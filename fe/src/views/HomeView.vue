@@ -1,15 +1,15 @@
 <template>
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <Navbar msg="Welcome to Your Vue.js App"/>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
+import Navbar from '@/components/Navbar.vue'
 
 export default {
   name: 'HomeView',
   components: {
-    HelloWorld
+    Navbar
   }
 }
 </script>
