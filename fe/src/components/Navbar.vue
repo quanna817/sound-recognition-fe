@@ -9,8 +9,8 @@
         <i class="fa fa-caret-down"></i>
       </button>
       <div class="dropdown-content">
-        <a href="statistics">Statistics</a>
-        <a href="upload">Upload</a>
+        <a href="#statistics">Statistics</a>
+        <a href="#upload">Upload</a>
       </div>
     </div>
     <div class="dropdown">
@@ -18,8 +18,8 @@
         <i class="fa fa-caret-down"></i>
       </button>
       <div class="dropdown-content">
-        <a href="urbansound">URBANSOUND8K dataset (10 CLASSSES)</a>
-        <a href="esc">ESC-50 dataset (40 CLASSSES)</a>
+        <a href="#urbansound">URBANSOUND8K dataset (10 CLASSSES)</a>
+        <a href="#esc">ESC-50 dataset (40 CLASSSES)</a>
       </div>
     </div>
     <div class="dropdown">
@@ -27,7 +27,7 @@
         <i class="fa fa-caret-down"></i>
       </button>
       <div class="dropdown-content">
-        <a href="registration-word">Registration word for recognition (Add/Edit/Remove)</a>
+        <a href="/registration-word">Registration word for recognition (Add/Edit/Remove)</a>
       </div>
     </div>
     <div class="btn-info">
